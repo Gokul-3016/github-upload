@@ -3,7 +3,7 @@
     "extension": ["js"],
     "package": "./package.json",
      "slow": 75,
-    "timeout": 6000,
+    "timeout": 20000,
     "parallel": false,
     "reporter": "spec",
     "ui": "bdd",
